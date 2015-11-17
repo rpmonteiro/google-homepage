@@ -1,7 +1,10 @@
 # google-homepage 
 My first GitHub project ever.
 
-HTML/CSS Project-Google Homepage
+See it working:
+https://htmlpreview.github.io/?https://github.com/rpmonteiro/google-homepage/blob/master/index.html
+
+HTML/CSS Project-Google Homepage:
 http://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav
 
 
